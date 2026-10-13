@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
+    <meta name="theme-color" content="#E25574" />
+    <meta name="robots" content="index, follow" />
+    <title>Lumi – Personalized Beauty, Skincare & Wellness Guidance</title>
+    <meta
+      name="description"
+      content="Lumi is your personal beauty companion for skincare, haircare and wellness. Tailored routines, habit tracking, clinical guides, and dark mode for evening rituals."
+    />
+    <meta
+      name="keywords"
+      content="skincare, haircare, wellness, beauty routine, personalized skincare, glow, self care, beauty guides, community routines, habit tracker, water tracker"
+    />
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Lumi – Personalized Beauty, Skincare & Wellness Guidance" />
+    <meta
+      property="og:description"
+      content="Lumi is your personal beauty companion for skincare, haircare and wellness. Tailored routines, habit tracking, clinical guides, and dark mode for evening rituals."
+    />
+    <meta property="og:image" content="/favicon.svg" />
+    <meta property="og:site_name" content="Lumi" />
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Lumi – Personalized Beauty, Skincare & Wellness Guidance" />
+    <meta
+      name="twitter:description"
+      content="Tailored routines, curated products, expert guides and progress tracking for your glow."
+    />
+    <meta name="twitter:image" content="/favicon.svg" />
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Dark Mode inline script to prevent flash of wrong theme -->
+    <script>
+      (function() {
+        try {
+          const stored = localStorage.getItem('lumie.theme');
+          if (stored === 'dark' || (!stored && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+          } else {
+            document.documentElement.classList.remove('dark');
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

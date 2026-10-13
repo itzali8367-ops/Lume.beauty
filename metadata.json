@@ -1,0 +1,6 @@
+{
+  "name": "Lumi – Personalized Beauty, Skincare & Wellness Guidance",
+  "description": "Lumi is your personal beauty companion for skincare, haircare and wellness. Tailored routines, habit tracking, clinical guides, and dark mode for evening rituals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

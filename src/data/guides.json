@@ -1,0 +1,171 @@
+[
+  {
+    "id": "5-step-routine",
+    "title": "The Ultimate 5-Step Skincare Routine for Glowing Skin",
+    "category": "skincare",
+    "excerpt": "Build a simple, effective routine that works for every skin type – morning and night.",
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=800&auto=format&fit=crop&q=80",
+    "author": "Dr. Lena Park",
+    "readTime": 6,
+    "tags": ["Routine", "Beginner"],
+    "content": [
+      "A great complexion is less about owning dozens of products and more about using the right few, consistently. The foundation of any effective routine comes down to five intentional steps.",
+      "Start with a gentle cleanser to remove impurities without stripping your skin barrier. Follow with a targeted treatment serum – vitamin C in the morning for brightness, or retinol at night for renewal.",
+      "Next, lock in hydration with a moisturizer suited to your skin type. Gel-creams work beautifully for oily and combination skin, while richer balms suit drier complexions.",
+      "Finish your morning routine with broad-spectrum SPF. This single step prevents more visible aging than almost anything else in your cabinet.",
+      "Consistency beats intensity. Give any new routine four to six weeks before judging the results, and introduce actives one at a time."
+    ],
+    "takeaways": [
+      "Cleanse, treat, hydrate, protect – in that order",
+      "SPF every morning is non-negotiable",
+      "Introduce one active at a time"
+    ]
+  },
+  {
+    "id": "layer-serums",
+    "title": "How to Layer Your Serums the Right Way",
+    "category": "skincare",
+    "excerpt": "Order matters. Learn which serums to apply first for maximum absorption.",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80",
+    "author": "Maya Rivera",
+    "readTime": 4,
+    "tags": ["Serums", "Technique"],
+    "content": [
+      "When layering, the general rule is to apply products from thinnest to thickest consistency, allowing each to absorb before the next.",
+      "Water-based serums like hyaluronic acid go on first. Oil-based treatments follow, as they can seal in the lighter layers beneath them.",
+      "Avoid combining strong actives that can irritate when stacked – such as retinol with vitamin C or exfoliating acids – unless your skin is well accustomed.",
+      "Give each layer 30–60 seconds to settle. This small pause makes a noticeable difference in how your skin feels and performs."
+    ],
+    "takeaways": [
+      "Thinnest to thickest consistency",
+      "Water-based before oil-based",
+      "Separate conflicting actives"
+    ]
+  },
+  {
+    "id": "hair-types",
+    "title": "Decoding Hair Types: Find Your Perfect Routine",
+    "category": "haircare",
+    "excerpt": "From straight to coily – understand your hair type and how to care for it.",
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800&auto=format&fit=crop&q=80",
+    "author": "Jordan Cole",
+    "readTime": 7,
+    "tags": ["Hair types", "Routine"],
+    "content": [
+      "Hair type is typically categorized from Type 1 (straight) to Type 4 (coily), with sub-types based on curl diameter. Knowing yours helps you choose the right products and wash frequency.",
+      "Straighter hair tends to get oily faster and benefits from lightweight, volumizing formulas. Curlier and coilier textures are drier by nature and thrive with rich moisture and gentler cleansing.",
+      "Wash frequency is personal: fine, straight hair may need washing every other day, while coily hair often flourishes with weekly cleansing and frequent conditioning.",
+      "Whatever your type, a weekly deep treatment and a scalp-focused step will keep your hair resilient and healthy."
+    ],
+    "takeaways": [
+      "Match products to your curl pattern",
+      "Drier textures need more moisture",
+      "Don't skip scalp care"
+    ]
+  },
+  {
+    "id": "foods-for-skin",
+    "title": "7 Foods for Radiant Skin from Within",
+    "category": "wellness",
+    "excerpt": "Glow isn't only topical. These everyday foods support skin from the inside.",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=800&auto=format&fit=crop&q=80",
+    "author": "Dr. Lena Park",
+    "readTime": 5,
+    "tags": ["Nutrition", "Glow"],
+    "content": [
+      "Skin health begins with what's on your plate. Antioxidant-rich foods help protect against the daily stress that dulls your complexion.",
+      "Fatty fish like salmon deliver omega-3s that keep skin supple. Berries, leafy greens and colorful vegetables provide vitamins C and A for repair and renewal.",
+      "Healthy fats from avocado and nuts support your skin barrier, while plenty of water keeps everything functioning smoothly.",
+      "Think of nutrition as a long-term investment – the glow compounds over weeks of consistent, colorful eating."
+    ],
+    "takeaways": [
+      "Omega-3s keep skin supple",
+      "Eat a rainbow of produce",
+      "Hydration shows on your skin"
+    ]
+  },
+  {
+    "id": "night-routine-sleep",
+    "title": "Building a Night Routine for Better Sleep",
+    "category": "wellness",
+    "excerpt": "A calming wind-down ritual that benefits both your mind and your skin.",
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&auto=format&fit=crop&q=80",
+    "author": "Sofia Bennett",
+    "readTime": 5,
+    "tags": ["Sleep", "Ritual"],
+    "content": [
+      "Quality sleep is when your skin repairs itself, making your evening ritual one of the most powerful beauty tools you have.",
+      "Dim the lights an hour before bed and swap screens for something slower – a warm herbal tea, a few pages of a book, or gentle stretching.",
+      "Keep your skincare simple at night: cleanse, treat and moisturize. A consistent order signals to your body that it's time to rest.",
+      "Aim for a regular sleep and wake time. The rhythm matters more than the exact hours."
+    ],
+    "takeaways": [
+      "Skin repairs during deep sleep",
+      "Reduce screens before bed",
+      "Consistency beats perfect timing"
+    ]
+  },
+  {
+    "id": "fighting-frizz",
+    "title": "Fighting Frizz: A Complete Guide",
+    "category": "haircare",
+    "excerpt": "Tame flyaways and keep strands smooth, whatever the weather.",
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=800&auto=format&fit=crop&q=80",
+    "author": "Jordan Cole",
+    "readTime": 4,
+    "tags": ["Frizz", "Technique"],
+    "content": [
+      "Frizz is mostly caused by dryness – when hair lacks moisture, it draws humidity from the air, lifting the cuticle.",
+      "The fix is layered hydration: a moisturizing conditioner, a leave-in, and a few drops of lightweight oil on the ends.",
+      "Dry your hair gently with a microfiber towel instead of rubbing, and avoid touching it too much as it dries.",
+      "On humid days, a smoothing serum seals the cuticle and keeps strands sleek for hours."
+    ],
+    "takeaways": [
+      "Frizz is a hydration problem",
+      "Use a microfiber towel",
+      "Seal ends with light oil"
+    ]
+  },
+  {
+    "id": "retinol-101",
+    "title": "Retinol 101: Everything Beginners Should Know",
+    "category": "skincare",
+    "excerpt": "Start retinol the right way and avoid the common irritation pitfalls.",
+    "image": "https://images.unsplash.com/photo-1608248597359-5613531b4028?w=800&auto=format&fit=crop&q=80",
+    "author": "Maya Rivera",
+    "readTime": 6,
+    "tags": ["Retinol", "Beginner"],
+    "content": [
+      "Retinol is one of the most studied ingredients for smoothing texture, softening lines and clearing breakouts – but it demands patience.",
+      "Begin with a low concentration, used twice a week at night. Apply to dry skin and buffer with moisturizer if needed.",
+      "Expect a short adjustment period. Mild dryness is normal; persistent redness means you're going too fast.",
+      "Always pair retinol with daily SPF, as it makes your skin more sensitive to the sun."
+    ],
+    "takeaways": [
+      "Start low and slow",
+      "Use only at night",
+      "SPF is essential with retinol"
+    ]
+  },
+  {
+    "id": "morning-rituals",
+    "title": "Morning Rituals for All-Day Energy",
+    "category": "wellness",
+    "excerpt": "Small morning habits that set the tone for a glowing, energized day.",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&auto=format&fit=crop&q=80",
+    "author": "Sofia Bennett",
+    "readTime": 4,
+    "tags": ["Energy", "Ritual"],
+    "content": [
+      "How you start your morning shapes your energy for the hours ahead. A few intentional habits go a long way.",
+      "Hydrate first thing, get natural light early, and move your body – even a five-minute stretch counts.",
+      "Pair your skincare with a moment of mindfulness. Massaging in your serum can double as a small act of self-care.",
+      "Keep breakfast balanced with protein and fiber to avoid the mid-morning slump."
+    ],
+    "takeaways": [
+      "Hydrate and get morning light",
+      "Move your body early",
+      "Balance breakfast for steady energy"
+    ]
+  }
+]

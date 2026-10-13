@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="lumieGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E25574" />
+      <stop offset="50%" stop-color="#D6456B" />
+      <stop offset="100%" stop-color="#B22B52" />
+    </linearGradient>
+    <linearGradient id="goldSpark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFF2CE" />
+      <stop offset="100%" stop-color="#E5A65D" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#lumieGrad)" />
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="1.5" />
+  <path d="M 45 14 Q 45 19 50 19 Q 45 19 45 24 Q 45 19 40 19 Q 45 19 45 14 Z" fill="url(#goldSpark)" />
+  <text x="21" y="45" font-family="'Fraunces', Georgia, serif" font-size="34" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="-1">L</text>
+  <text x="39" y="38" font-family="'Fraunces', Georgia, serif" font-size="22" font-weight="600" fill="#FFFFFF" text-anchor="middle">u</text>
+  <path d="M 37 19 L 43 14" stroke="url(#goldSpark)" stroke-width="3" stroke-linecap="round" />
+</svg>

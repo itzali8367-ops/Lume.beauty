@@ -1,0 +1,199 @@
+[
+  {
+    "id": "radiance-serum",
+    "name": "Radiance Vitamin C Serum",
+    "brand": "Aurélia",
+    "category": "skincare",
+    "price": 42,
+    "rating": 4.8,
+    "reviews": 1243,
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=800&auto=format&fit=crop&q=80",
+    "description": "A brightening serum with 15% vitamin C to fade dullness and even skin tone.",
+    "concerns": [
+      "Dullness",
+      "Aging"
+    ],
+    "featured": true,
+    "aliexpressUrl": "https://www.aliexpress.com/wholesale?SearchText=Vitamin+C+brightening+serum"
+  },
+  {
+    "id": "hydra-glow",
+    "name": "Hydra Glow Moisturizer",
+    "brand": "Aurélia",
+    "category": "skincare",
+    "price": 38,
+    "rating": 4.7,
+    "reviews": 982,
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80",
+    "description": "A lightweight gel-cream with hyaluronic acid for 48 hours of deep hydration.",
+    "concerns": [
+      "Dryness",
+      "Dullness"
+    ],
+    "featured": true,
+    "aliexpressUrl": "https://www.aliexpress.com/wholesale?SearchText=hyaluronic+acid+gel+cream+moisturizer"
+  },
+  {
+    "id": "gentle-cleanser",
+    "name": "Gentle Foam Cleanser",
+    "brand": "Bare Ritual",
+    "category": "skincare",
+    "price": 24,
+    "rating": 4.6,
+    "reviews": 2110,
+    "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&auto=format&fit=crop&q=80",
+    "description": "A pH-balanced foaming cleanser that removes impurities without stripping skin.",
+    "concerns": [
+      "Sensitivity",
+      "Acne"
+    ],
+    "aliexpressUrl": "https://www.aliexpress.com/wholesale?SearchText=gentle+amino+acid+cleanser"
+  },
+  {
+    "id": "retinol-renewal",
+    "name": "Overnight Retinol Renewal",
+    "brand": "Noctua",
+    "category": "skincare",
+    "price": 56,
+    "rating": 4.9,
+    "reviews": 1540,
+    "image": "https://images.unsplash.com/photo-1608248597359-5613531b4028?w=800&auto=format&fit=crop&q=80",
+    "description": "An encapsulated retinol treatment that smooths fine lines while you sleep.",
+    "concerns": [
+      "Aging",
+      "Acne"
+    ],
+    "featured": true,
+    "aliexpressUrl": "https://www.aliexpress.com/wholesale?SearchText=retinol+night+serum+squalane"
+  },
+  {
+    "id": "spf-shield",
+    "name": "SPF 50 Daily Shield",
+    "brand": "Solène",
+    "category": "skincare",
+    "price": 32,
+    "rating": 4.7,
+    "reviews": 1875,
+    "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=800&auto=format&fit=crop&q=80",
+    "description": "An invisible broad-spectrum sunscreen with a soft matte finish.",
+    "concerns": [
+      "Aging",
+      "Sensitivity"
+    ],
+    "aliexpressUrl": "https://www.aliexpress.com/wholesale?SearchText=spf+50+invisible+daily+sunscreen"
+  },
+  {
+    "id": "repair-hair-oil",
+    "name": "Nourish Repair Hair Oil",
+    "brand": "Mané",
+    "category": "haircare",
+    "price": 29,
+    "rating": 4.8,
+    "reviews": 764,
+    "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=800&auto=format&fit=crop&q=80",
+    "description": "A weightless argan and camellia oil blend that tames frizz and adds shine.",
+    "concerns": [
+      "Frizz",
+      "Dryness"
+    ],
+    "featured": true,
+    "aliexpressUrl": "https://www.aliexpress.com/wholesale?SearchText=argan+camellia+hair+repair+oil"
+  },
+  {
+    "id": "volume-shampoo",
+    "name": "Volume Boost Shampoo",
+    "brand": "Mané",
+    "category": "haircare",
+    "price": 26,
+    "rating": 4.5,
+    "reviews": 1320,
+    "image": "https://images.unsplash.com/photo-1535585209827-a15fcdbc4c2d?w=800&auto=format&fit=crop&q=80",
+    "description": "A sulfate-free formula that lifts roots and adds body to fine hair.",
+    "concerns": [
+      "Volume",
+      "Hair fall"
+    ],
+    "aliexpressUrl": "https://www.aliexpress.com/wholesale?SearchText=volume+boost+sulfate+free+shampoo"
+  },
+  {
+    "id": "silk-conditioner",
+    "name": "Silk Repair Conditioner",
+    "brand": "Mané",
+    "category": "haircare",
+    "price": 28,
+    "rating": 4.6,
+    "reviews": 890,
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800&auto=format&fit=crop&q=80",
+    "description": "A deep conditioning treatment that rebuilds bonds for softer strands.",
+    "concerns": [
+      "Dryness",
+      "Frizz"
+    ],
+    "aliexpressUrl": "https://www.aliexpress.com/wholesale?SearchText=silk+amino+acid+deep+conditioner"
+  },
+  {
+    "id": "scalp-detox",
+    "name": "Scalp Detox Treatment",
+    "brand": "Rootology",
+    "category": "haircare",
+    "price": 34,
+    "rating": 4.7,
+    "reviews": 512,
+    "image": "https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?w=800&auto=format&fit=crop&q=80",
+    "description": "An exfoliating scalp serum that clears buildup and supports healthy growth.",
+    "concerns": [
+      "Scalp care",
+      "Hair fall"
+    ],
+    "aliexpressUrl": "https://www.aliexpress.com/wholesale?SearchText=salicylic+acid+scalp+scrub+serum"
+  },
+  {
+    "id": "collagen-glow",
+    "name": "Collagen Glow Supplement",
+    "brand": "Inner Lume",
+    "category": "wellness",
+    "price": 48,
+    "rating": 4.8,
+    "reviews": 2340,
+    "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=800&auto=format&fit=crop&q=80",
+    "description": "Marine collagen peptides with vitamin C to support skin elasticity and glow.",
+    "concerns": [
+      "Glow",
+      "Aging"
+    ],
+    "featured": true,
+    "aliexpressUrl": "https://www.aliexpress.com/wholesale?SearchText=marine+collagen+peptides+powder"
+  },
+  {
+    "id": "calm-tea",
+    "name": "Calm Night Herbal Tea",
+    "brand": "Inner Lume",
+    "category": "wellness",
+    "price": 18,
+    "rating": 4.6,
+    "reviews": 640,
+    "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=800&auto=format&fit=crop&q=80",
+    "description": "A soothing blend of chamomile and lavender to wind down before bed.",
+    "concerns": [
+      "Sleep"
+    ],
+    "aliexpressUrl": "https://www.aliexpress.com/wholesale?SearchText=chamomile+lavender+sleep+tea"
+  },
+  {
+    "id": "omega-capsules",
+    "name": "Inner Glow Omega Capsules",
+    "brand": "Inner Lume",
+    "category": "wellness",
+    "price": 36,
+    "rating": 4.7,
+    "reviews": 980,
+    "image": "https://images.unsplash.com/photo-1550572017-edd951aa8f72?w=800&auto=format&fit=crop&q=80",
+    "description": "Omega-3 and biotin capsules to nourish skin, hair and energy from within.",
+    "concerns": [
+      "Energy",
+      "Glow",
+      "Immunity"
+    ],
+    "aliexpressUrl": "https://www.aliexpress.com/wholesale?SearchText=omega+3+fish+oil+biotin+capsules"
+  }
+]
